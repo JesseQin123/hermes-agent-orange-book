@@ -1,3 +1,9 @@
+> **Note from Jesse Qin:** This is a personal fork I keep for my own reference/use — I have not made any code contributions here. Full credit and all engineering work belongs to the original project below.
+>
+> **Original project:** https://github.com/alchaincyf/hermes-agent-orange-book
+>
+> ---
+
 **English** | [中文版 README](README_zh.md)
 
 <p align="center">
